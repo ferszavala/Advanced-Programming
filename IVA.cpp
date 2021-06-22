@@ -1,6 +1,8 @@
 /*Escriba un programa que de la entrada estándar el precio de un producto y muestre en la salida estándar el
 precio del producto al aplicarle el IVA*/
 
+/*Nuevo commment*/
+
 #include<iostream>
 
 using namespace std;
